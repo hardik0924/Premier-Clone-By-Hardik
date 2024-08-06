@@ -1,11 +1,12 @@
 @font-face {
   font-family: 'monument';
-  src: url(./font/MonumentExtended-Regular.otf) format('otf');    
+  src: url('./font/MonumentExtended-Regular.otf') format('opentype');    
 }
 @font-face {
   font-family: 'monument';
-  src: url(./font/MonumentExtended-Ultrabold.otf) format('otf');    
+  src: url('./font/MonumentExtended-Ultrabold.otf') format('opentype');    
 }
+
 
 
 * {
