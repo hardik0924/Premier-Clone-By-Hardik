@@ -6,6 +6,17 @@
   font-family: 'monument';
   src: url('./font/MonumentExtended-Ultrabold.otf') format('opentype');    
 }
+@font-face {
+  font-family: 'monument';
+  src: url('./font/MonumentExtended-Regular.eot');
+  src: url('./font/MonumentExtended-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./font/MonumentExtended-Regular.woff2') format('woff2'),
+       url('./font/MonumentExtended-Regular.woff') format('woff'),
+       url('./font/MonumentExtended-Regular.ttf') format('truetype'),
+       url('./font/MonumentExtended-Regular.svg#MonumentExtended-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 
